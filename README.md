@@ -1,5 +1,9 @@
-# Modified-Retail-Food-Environment-Index
+# Modified Retail Food Environment Index  
+
 My Data Wrangling Group Project
+
+<img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/0138679c-19e6-44ce-80e6-d3a80056b66c" width="850" height="300">
+
 The modified retail food environment index table is part of a series of indicators in 
 the Healthy Communities Data and Indicators Project (HCI) of the Office of Health Equity. 
 The table contains data on the modified retail food environment index for California, its 
